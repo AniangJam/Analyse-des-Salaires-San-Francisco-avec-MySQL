@@ -60,6 +60,3 @@ Voici une liste de question que nous avons essayer de répondre. Ici pour voir p
 
 - Ce projet démontre l'utilité de MySQL dans le traitement et l'analyse de données volumineuses, offrant des méthodes efficaces pour extraire des informations pertinentes.
 - Il souligne l'importance de savoir manipuler des bases de données complexes, réaliser des analyses détaillées, et répondre à des questions spécifiques grâce à des données, compétences essentielles dans le domaine de l'analyse de données.
-
-
-

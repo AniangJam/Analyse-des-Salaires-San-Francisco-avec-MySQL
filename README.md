@@ -23,7 +23,7 @@ Réaliser une analyse approfondie des données salariales de la ville de San Fra
 - Analyses Réalisées :
 - Exploration initiale des données par affichage de toutes les colonnes et lignes.
 - Filtrage pour afficher uniquement les noms d'employés et les titres de poste.
-Voici une liste de question que nous avons essayer de répondre. Ici pour voir plus sur le code [Telecharger le code]
+Voici une liste de question que nous avons essayer de répondre. Plus de détails en téléchargeant le code dans les DOCS.
 
  1 SHOW ALL COLUMS AND ROWS IN THE TABLE
 
